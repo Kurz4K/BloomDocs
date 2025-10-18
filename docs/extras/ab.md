@@ -1,6 +1,6 @@
 ---
 id: ab
-title: Bloom Anti Bot
+title: ATBP Anti Bot
 slug: /ab
 hide_table_of_contents: true
 description: Learn more about Bloom's Anti Bot plugin!
@@ -15,7 +15,7 @@ This is a **beta** plugin for Minecraft servers that interacts with our custom o
 
 The plugin is open source, and can be found here: https://github.com/Bloom-host/BloomAB/
 
-Please report any issues or suggestions on our [Discord server](https://discord.gg/bloom)!
+Please report any issues or suggestions on our [Discord server](https://discord.gg/XdEa8c3qYX)!
 
 ---
 
@@ -37,7 +37,7 @@ Here is how you can install the plugin:
   If this isn't the case, please update your main port to one of the supported ones in the [Ports & Proxies tab](../using_the_panel/ports-and-proxies.md) 
 2. Open the [latest release on GitHub](https://github.com/Bloom-host/BloomAB/releases/latest) and download the `BloomAB-xxx.jar` file.  
   This JAR file will work for all 3 platforms.
-3. Open your server in the [DuckPanel](https://mc.bloom.host) and click the 'File Manager' tab.  
+3. Open your server in the [DuckPanel](https://panel.atbphosting.com) and click the 'File Manager' tab.  
    ⚠️ **Note**: If you have a network using Waterfall or Velocity, please ensure to only install it on the proxy, not the backend server.
 4. Open the `plugins` folder and drag & drop the JAR file.
 5. Restart your server to apply the changes.
